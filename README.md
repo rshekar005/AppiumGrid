@@ -40,3 +40,12 @@ How to solve w3c error while launching Google.com?
 Ans: cap.setCapability("appium:chromeOptions", ImmutableMap.of("w3c", false));
 
 
+In hub.bat file added "java -jar selenium-server-standalone-3.141.59.jar -role hub"
+
+In device1.bat and device2.bat file added paths.
+all.json contains capabilities.
+
+Why used .bat file?
+Ans: WHen we double clicked on bat file it will create run based on the input in file
+
+
