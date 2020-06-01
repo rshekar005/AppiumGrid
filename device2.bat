@@ -1,0 +1,1 @@
+appium -p 4726 --udid emulator-5554 -bp 5557 --chromedriver-port 5646 --nodeconfig "E:\Appium\Appium_Grid\all.json" -g "E:\Appium\Appium_Grid\appium_2.log" --session-override

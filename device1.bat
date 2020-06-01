@@ -1,0 +1,1 @@
+appium -p 4725 --udid 48b3b41d -bp 5556 --chromedriver-port 5645 --nodeconfig "E:\Appium\Appium_Grid\all.json" -g "E:\Appium\Appium_Grid\appium_1.log" --session-override
